@@ -2,7 +2,7 @@
 This is my portfolio
 # Portfolio
 Learn about HTML/CSS/Bootstap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
-[Live Heroku Development] (https://portfolio-saharukh.herokuapp.com/#projects)
+[Live Heroku Development](https://portfolio-saharukh.herokuapp.com/)
 <img width="1436" alt="Screenshot 1443-09-02 at 9 02 15 PM" src="https://user-images.githubusercontent.com/102286564/161690831-9d04dcae-f620-4d1e-9514-b7c9a80a504c.png">
 ## Tech used
 * HTML
