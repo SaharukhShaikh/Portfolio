@@ -17,7 +17,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/wallpaperflare.com_wallpaper.jpg);
+    background-image: url(images/wallpaperflare.com_wallpaper\ \(1\).jpg);
     background-size: cover;
     background-position: center;
 }
@@ -35,7 +35,7 @@ nav{
 }
 
 nav h2{
-    font-size: 35px;
+    font-size: 33px;
 }
 
 nav h2 span{
@@ -51,8 +51,9 @@ nav ul li{
 nav ul li a{
     color: #fff;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 19px;
     position: relative;
+    font-weight: 530;
 }
 
 nav ul li a::after{
@@ -71,13 +72,13 @@ nav ul li a:hover::after{
 }
 
 .header-text{
-    margin-top: 20%;
+    margin-top: 23%;
     font-size: 25px;
 }
 
 .header-text h1{
-    font-size: 55px;
-    margin-top: 20px;
+    font-size: 48px;
+    margin-top: 24px;
 }
 
 .header-text h1 span{
@@ -127,14 +128,14 @@ nav ul li a:hover::after{
     position: relative;
 }
 
-.tab-links::after{
+.tab-links::after {
     content: '';
     width: 0;
     height: 3px;
     background: #ff004f;
     position: absolute;
-    left: 0;
-    bottom: -8px;
+    left: 1px;
+    bottom: -11px;
     transition: 0.5s;
 }
 
@@ -479,5 +480,12 @@ nav .fa-solid{
 }
 .about-col-2 .tab-titles p{
     font-size: 20px;
-    font-weight: bold;
+    width: fit-content;
+    border: 1.2px solid #ff004f;
+    padding: 6px 18px;
+    border-radius: 12px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 550;
+    transition: transform 0.5s;
 }
