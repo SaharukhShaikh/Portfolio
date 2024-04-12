@@ -8,6 +8,7 @@ This portfolio is a small project using the HTML/CSS and Bootstrap. I will be us
 * HTML 
 * CSS
 * Javascript
+* For Desiging - Figma
 
 # Installation
  No need to install any software, just open up index.html
@@ -15,6 +16,7 @@ This portfolio is a small project using the HTML/CSS and Bootstrap. I will be us
 # How to use?
 Use this template to build your own portfolio
 
-# Screenshot:!
+## Preview:
 
-<img width="1425" alt="Screenshot 2022-11-08 at 08 54 18" src="https://user-images.githubusercontent.com/102286564/200468149-e185c755-df5f-4543-9786-029d240b0ed8.png">
+<img width="1440" alt="Screenshot 2024-04-12 at 3 20 52 PM" src="https://github.com/SaharukhShaikh/Portfolio/assets/102286564/db0b6c7e-5764-4e73-9b18-034971907ab4">
+
