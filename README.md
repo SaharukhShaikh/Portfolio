@@ -1,7 +1,7 @@
 # Portfolio
 This portfolio is a small project using the HTML/CSS and Bootstrap. I will be using the this to showcase my projects and skills 
 
-[LIVE REPLIT DEPLOYMENT](https://portfolio-9sw9e5u4f-saharukh-shaikhs-projects.vercel.app/)
+[LIVE REPLIT DEPLOYMENT](https://portfolio-8w4j.vercel.app/)
 
 
 # Technologies Used:
