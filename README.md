@@ -18,5 +18,5 @@ Use this template to build your own portfolio
 
 ## Preview:
 
-<img width="1440" alt="Screenshot 2024-04-12 at 3 20 52 PM" src="https://github.com/SaharukhShaikh/Portfolio/assets/102286564/db0b6c7e-5764-4e73-9b18-034971907ab4">
+<img width="1440" alt="Screenshot 2024-04-21 at 10 08 56 AM" src="https://github.com/SaharukhShaikh/Portfolio/assets/102286564/afe70ab3-5902-43a3-bafc-b41ccdd44153">
 
